@@ -19,7 +19,6 @@ This Java application provides weather forecast information for a given zip code
 3. Set up the necessary dependencies:
 
    - Jackson library for JSON parsing
-   - Ehcache library for caching (optional)
 
 4. Replace `"your_api_key"` in `WeatherForecastService.java` with your actual OpenWeatherMap API key.
 
